@@ -25,7 +25,7 @@ The code in this repository is written in Python and requires the following libr
 To run the code in this repository, you will need to have Jupyter Notebook or Jupyter Lab installed, and python version 3.7. Once you have Jupyter installed, you can open the notebooks in this repository and run the code cells.
 
 ## Data
-Please see "Data Availability Statement" in [Tesdal and Haine (2020)](https://doi.org/10.1029/2020JC016435) for how to access the ECCOv4 output and any ancillary datasets used in this study. ECCOv4 output was reproduced follwoong the instruction presented in [Wang (2019)](https://www.ecco-group.org/docs/v4r4_reproduction_howto.pdf).
+Please see "Data Availability Statement" in [Tesdal and Haine (2020)](https://doi.org/10.1029/2020JC016435) for how to access the ECCOv4 output and any ancillary datasets used in this study. ECCOv4 output was reproduced following the instruction presented in [Wang (2019)](https://www.ecco-group.org/docs/v4r4_reproduction_howto.pdf).
 
 ## Reference
 If you use this code or data, please cite the following paper:
